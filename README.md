@@ -1,3 +1,5 @@
+# This project is moved to https://github.com/SimplifyNet/Simplify.Web.Json
+
 # Simplify.Web.Json
 
 `Simplify.Web.Json` is a package which provides JSON serialization/deserialization for [Simplify.Web](https://github.com/i4004/Simplify.Web) web-framework controllers.
